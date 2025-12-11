@@ -19,3 +19,7 @@ window.experience.destroy()
 
 #src/Experience/Utils/EventEmitter.js get this file code from this link
 https://gist.github.com/brunosimon/120acda915e6629e3a4d497935b16bdf
+
+#for Debug
+add this #debug 
+after the url fro debug
